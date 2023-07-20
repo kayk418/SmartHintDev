@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+
+<fieldset>
+<h1></h1><b>Consulte os seus Clientes cadastrados na
+sua Loja ou realize o cadastro de novos Cliente</b></h1>
+<br><br>
+<p>Pesquisa de Clientes</p>
+
+</head>
+<body>
+    <div class="divSearch">
+      <label for="search" aria-placeholder="Pesquisar"> </label>
+      <input type="search" />
+    </div>
+    <div class="content">
+<br>
+    </div>
+
+  <script src="script.js"></script>
+
+  <script>
+    function DefinicaoObjeto()
+  {
+   this.Atributo1 = "Nome"; //atributo público
+   var Atributo2 = "Email"; //atributo privado
+   this.ValorConcatenado = this.Atributo1 + " - " + Atributo2; //atributo publico;
+  }
+var meuObj = new DefinicaoObjeto(); // momento de criação do JSON
+  </script>
+</body>
+
+
+</html>
+
+<script>
+  const content = document.querySelector(".content");
+const inputSearch = document.querySelector("input[type='search']");
+
+let items = [];
+
+inputSearch.oninput = () => {
+  content.innerHTML = "";
+
+  items
+    .filter((item) =>
+      item.toLowerCase().includes(inputSearch.value.toLowerCase())
+    )
+    .forEach((item) => addHTML(item));
+};
+
+function addHTML(item) {
+  const div = document.createElement("div");
+  div.innerHTML = item;
+  content.append(div);
+}
+
+fetch("https://jsonplaceholder.typicode.com/users")
+  .then((data) => data.json())
+  .then((users) => {
+    users.forEach((user) => {
+      addHTML(user.name);
+      items.push(user.name);
+    });
+    
+  });
+</script>
+<div>
+  <div>
+      <a class="button" href="tela_cadastro.html" style="float: right; border:1px solid; padding: 11px 21px; vertical-align: middle; background:dodgerblue; color:white;border-radius:6px; font-size: 20px; font-family:helvetica, serif;text-decoration:none;">Adicionar Cliente</a></div>
+  <div>
+
+<link rel="stylesheet" href="stilo.css">
+</div>
+</head>
+
+<body>
+<main>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+
+    body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-image: linear-gradient(to right, rgb(20, 147, 220), rgb(24, 137, 67));
+            color: black;
+        }
+   
+    </style>
+</head>
+<div class="inputbox">
+<input type="text" name="Nome" id="Nome" placeholder="Nome do Cliente / Razão Social">
+<br>
+<input type="text" name="email" id="email" placeholder="E-mail">
+<br>
+<input type="date" id="data" name="data de cadastro" >
+</div>
+  <br><br>
+
+      <p>Cliente Bloqueado</p>
+<form method="post" action="cadastrar-enquete.php">
+<select name="Alterntiva">
+<option value="Sim">Sim</option>
+<option value="Não">Nao</option>
+</select>
+<input type="submit" value="Enviar" size="50%">
+      <br><br>
+      <div class="button_click">
+         <button onclick="Pesquisar(entradaNomeProduto.value, Email.value, Telefone.value, entradaIdInterno.value)">Filtrar</button>
+      <div class="wrapper">
+<div>
+<br><br>
+       <div>
+        <br><br>
+          <ul>
+          <div class="prev"> < </div>
+           <li>1</li>
+           <li>2</li>
+           <li>3</li>
+           <li>4</li>
+           <li>5</li>
+           <li>6</li>
+           <li>7</li>
+           <li>8</li>
+           <li>9</li>
+           <li class="active">10</li>
+           <li>11</li>
+           <li>12</li>
+           <li>13</li>
+           <li>14</li>
+           <li>15</li>
+           <li>16</li>
+           <li>17</li>
+           <li>18</li>
+           <li>19</li>
+           <li>20</li>
+           <div class="next">></div>
+          </ul>
+        </div>
+      </div>
+  
+      <script>
+
+  </script>
+  
+  </body>
+  </html>
+
+</div>
+
+</body>
+
+</html>

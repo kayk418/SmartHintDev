@@ -1,0 +1,24 @@
+C:\repository\SmartHintDev.Domain\bin\Debug\net6.0\SmartHintDev.Domain.deps.json
+C:\repository\SmartHintDev.Domain\bin\Debug\net6.0\SmartHintDev.Domain.dll
+C:\repository\SmartHintDev.Domain\bin\Debug\net6.0\SmartHintDev.Domain.pdb
+C:\repository\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.csproj.AssemblyReference.cache
+C:\repository\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.AssemblyInfoInputs.cache
+C:\repository\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.AssemblyInfo.cs
+C:\repository\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.csproj.CoreCompileInputs.cache
+C:\repository\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.dll
+C:\repository\SmartHintDev.Domain\obj\Debug\net6.0\refint\SmartHintDev.Domain.dll
+C:\repository\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.pdb
+C:\repository\SmartHintDev.Domain\obj\Debug\net6.0\ref\SmartHintDev.Domain.dll
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\bin\Debug\net6.0\SmartHintDev.Domain.deps.json
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\bin\Debug\net6.0\SmartHintDev.Domain.dll
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\bin\Debug\net6.0\SmartHintDev.Domain.pdb
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.csproj.AssemblyReference.cache
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.AssemblyInfoInputs.cache
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.AssemblyInfo.cs
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.dll
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\obj\Debug\net6.0\refint\SmartHintDev.Domain.dll
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\obj\Debug\net6.0\SmartHintDev.Domain.pdb
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Domain\obj\Debug\net6.0\ref\SmartHintDev.Domain.dll

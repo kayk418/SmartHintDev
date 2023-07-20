@@ -1,0 +1,34 @@
+C:\repository\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Infra.deps.json
+C:\repository\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Infra.runtimeconfig.json
+C:\repository\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Infra.dll
+C:\repository\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Infra.pdb
+C:\repository\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Domain.dll
+C:\repository\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Domain.pdb
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.csproj.AssemblyReference.cache
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.AssemblyInfoInputs.cache
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.AssemblyInfo.cs
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.csproj.CoreCompileInputs.cache
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.csproj.CopyComplete
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.dll
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\refint\SmartHintDev.Infra.dll
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.pdb
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.genruntimeconfig.cache
+C:\repository\SmartHintDev.Infra\obj\Debug\net6.0\ref\SmartHintDev.Infra.dll
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Infra.deps.json
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Infra.runtimeconfig.json
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Infra.dll
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Infra.pdb
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Domain.dll
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\bin\Debug\net6.0\SmartHintDev.Domain.pdb
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.csproj.AssemblyReference.cache
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.AssemblyInfoInputs.cache
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.AssemblyInfo.cs
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.csproj.CoreCompileInputs.cache
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.csproj.CopyComplete
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.dll
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\refint\SmartHintDev.Infra.dll
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.pdb
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\SmartHintDev.Infra.genruntimeconfig.cache
+C:\Users\kaykp\OneDrive\Documentos\curso JS\Back\SmartHintDev.Infra\obj\Debug\net6.0\ref\SmartHintDev.Infra.dll

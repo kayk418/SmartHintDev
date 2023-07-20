@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3N4wgg8Lh/lHcIvnAEkrkoIRgmffs+acsNMj+YOnO52SIiq7PA4CHiT1pGGz7voGcvK6kixDNV4L/o4iWPBt9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaykp\\OneDrive\\Documentos\\curso JS\\Back\\SmartHintDev.Domain\\SmartHintDev.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaykp\\.nuget\\packages\\fluentvalidation\\9.4.0\\fluentvalidation.9.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
